@@ -23,12 +23,9 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="akhilrockbabu.github.io/akhilrockbabu/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -37,17 +34,11 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/akhilrockbabu/akhilrockbabu/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
 </div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -59,12 +50,6 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
     
 </div>
-<br>
-
-<hr/>
-
-<br/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br/>
