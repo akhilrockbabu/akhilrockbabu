@@ -10,9 +10,9 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 <br/>
 
 <div align="center">
-    💻 **. I'm at the beginning of my coding journey and excited to learn, grow, and collaborate with the amazing GitHub community.</p>
-    🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills     and languages.</p>
-    😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
+    💻I'm at the beginning of my coding journey and excited to learn, grow, and collaborate with the amazing GitHub community.</p>
+    🌱 Learning and Exploring:I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
+    😊I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
 </div>
  
 <div align="center"> 
@@ -65,8 +65,6 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br/>
