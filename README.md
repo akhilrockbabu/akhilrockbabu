@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akhil+Rock+Babu!;" />
 </h1>
 
-<h3 align="center">I'm an aspiring software developer 
-currently studying for my Master of Computer Applications (MCA) at <a href="https://www.mace.ac.in/" </a> Mar Athanasius College of Engineering.</h3>
+<h3 align="center">I'm an aspiring software developer completed Master of Computer Applications (MCA) at <a href="https://www.mace.ac.in/" </a> Mar Athanasius College of Engineering.</h3>
 
 <br/>
 
